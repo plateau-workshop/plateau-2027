@@ -2,19 +2,19 @@
 title: "PLATEAU Workshop"
 description: "Bringing together Programming Languages and Human-Computer Interaction"
 url: "https://schasins.com/plateau/" # the base hostname & protocol for your site, e.g. http://example.com
-year: 2026
+year: 2027
 # colocated_url: "https://2020.splashcon.org/"
 # colocated_logo: "./assets/images/splash2020.png"
 # colocated_title: "SPLASH2020"
 logo_height: "30px"
-location: "GHC 6115 @ Carnegie Mellon University, Pittsburgh, PA USA"
+location: "Gateway Building Room 2350 @ University of California, Berkeley, CA USA"
 #sublocation: "TBD"
-workshop_date: "March 9th and 10th, 2026"
-submission_date: "Wednesday, December 17th, 2025"
+workshop_date: "March 8th and 9th, 2027"
+submission_date: "TBA"
 #notification_date: "Wednesday, December 13th, 2023"
 #backup_submission_date: ""
-submission_site: "https://plateau26.apps.in.ripley.cloud"
-registration_site: "https://tinyurl.com/plateau-26"
+#submission_site: "https://plateau26.apps.in.ripley.cloud"
+#registration_site: "https://tinyurl.com/plateau-26"
 mailing_list_link: "https://groups.google.com/g/plateau-announcements"
 #proceedings_site: "TBD"
 # room_number_or_description:
@@ -26,56 +26,8 @@ organizers:
     affiliation: Carnegie Mellon University
 
 student_organizers:
-  - name: Justin Lubin
-    affiliation: University of California, Berkeley
-  - name: Yiliang "Leo" Liang
-    affiliation: Carnegie Mellon University
-  - name: Eric Rawn
-    affiliation: University of California, Berkeley
 
 mentors:
-  - name: Titus Barik
-    affiliation: Apple
-  - name: Alan Blackwell
-    affiliation: University of Cambridge
-  - name: Will Crichton
-    affiliation: Brown University
-  - name: Michael Coblenz
-    affiliation: University of California, San Diego
-  - name: Harry Goldstein
-    affiliation: University of Buffalo
-  - name: Andy Gordon
-    affiliation: Cogna
-  - name: Mark Guzdial
-    affiliation: University of Michigan
-  - name: Andrew Head
-    affiliation: University of Pennsylvania
-  - name: Shriram Krishnamurthi
-    affiliation: Brown University
-  - name: Thomas D. LaToza
-    affiliation: George Mason University
-  - name: Toby Li
-    affiliation: Notre Dame
-  - name: Brad Myers
-    affiliation: Carnegie Mellon University
-  - name: Tim Nelson
-    affiliation: Brown University
-  - name: Wode "Nimo" Ni
-    affiliation: Brilliant
-  - name: Steve Oney
-    affiliation: University of Michigan
-  - name: Hila Peleg
-    affiliation: Technion
-  - name: Nadia Polikarpova
-    affiliation: University of California, San Diego
-  - name: Joe Gibbs Politz
-    affiliation: University of California, San Diego
-  - name: Mark Santolucito
-    affiliation: Barnard College
-  - name: April Wang
-    affiliation: ETH Zürich
-  - name: J.D. Zamfirescu-Pereira
-    affiliation: University of California, Los Angeles
 
 # build settings
 exclude: ["readme.md"]
@@ -91,12 +43,12 @@ navbar_links:
   - title: "Home"
     url: "/"
     newtab: false
-  - title: "Registration"
-    url: "/registration"
-    newtab: false
-  - title: "Program"
-    url: "/program"
-    newtab: false
+  # - title: "Registration"
+  #   url: "/registration"
+  #   newtab: false
+  # - title: "Program"
+  #   url: "/program"
+  #   newtab: false
   - title: "Prior Year Sites"
     url: "/prior-year-sites"
     newtab: false
